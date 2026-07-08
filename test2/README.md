@@ -78,12 +78,12 @@ This bar chart displays the **10 most influential variables** used by the Random
 
 ### 排行榜解析 / Feature Ranking Breakdown
 
-| 排名 Rank | 特徵 Feature |
+| 排名 Rank | 特徵 Feature | 說明 | Description |
 |:---:|---|---|---|
-|  1 | `Age` 年齡 | 最關鍵特徵，不同年齡層客戶的流失傾向差異極大 | Most critical feature; churn tendency varies significantly across age groups |
-|  2 | `NumOfProducts` 使用產品數量 | 持有產品數量是決定去留的第二大關鍵 | Number of products held is the second most decisive factor |
-|  3 | `EstimatedSalary` 預估薪資 | 客戶的經濟能力對流失行為有顯著影響 | Customer's financial capacity significantly influences churn behavior |
-| 4 | `id` 客戶編號 | 不應具備預測力，可能暗含時序或地區規律（見下方診斷說明） | Should not carry predictive power; may encode hidden temporal/regional patterns (see diagnostic note below) |
+| 1 | `Age` 年齡 | 最關鍵特徵，不同年齡層客戶的流失傾向差異極大 | Most critical feature; churn tendency varies significantly across age groups |
+| 2 | `NumOfProducts` 使用產品數量 | 持有產品數量是決定去留的第二大關鍵 | Number of products held is the second most decisive factor |
+| 3 | `EstimatedSalary` 預估薪資 | 客戶的經濟能力對流失行為有顯著影響 | Customer's financial capacity significantly influences churn behavior |
+| 4 | `id` 客戶編號 | 不應具備預測力，可能暗含時序或地區規律 | Should not carry predictive power; may encode hidden temporal/regional patterns (see diagnostic note below) |
 | 5 | `CreditScore` 信用分數 | 信用狀況對流失風險有相當的貢獻 | Credit status contributes considerably to churn risk |
 | 6 | `Balance` 帳戶餘額 | 帳戶資金多寡同樣影響客戶忠誠度 | Account balance level also affects customer loyalty |
 | 7 | `Tenure` 往來年資 | 與公司關係的時間長短具顯著影響力 | Duration of the customer relationship with the company is notably impactful |
