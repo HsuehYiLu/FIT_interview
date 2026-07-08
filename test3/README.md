@@ -5,7 +5,6 @@
 ---
 
 <a id="english-version"></a>
-## 🇬🇧 English Version
 
 ### 1. Overview and Objective
 This project fulfills **Task 3: Computer Vision**, which requires downloading the MNIST dataset and designing a Convolutional Neural Network (CNN) for digit classification. The primary goal is to demonstrate proficiency in three key areas: **Modeling**, **Optimization**, and **Handling Class Imbalance**. 
@@ -37,7 +36,6 @@ The implemented PyTorch CNN successfully classifies the MNIST digits with an acc
 ---
 
 <a id="chinese-version"></a>
-## 🇹🇼 中文版本
 
 ### 1. 概述與目標
 使用 PyTorch 下載 MNIST 資料集，並設計了一個簡易卷積神經網路 (CNN) 來進行數字分類。
