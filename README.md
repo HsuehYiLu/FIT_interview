@@ -1,4 +1,4 @@
-# FIT Interview - Junior Data Science
+# FIT Interview - Junior Data Scientist
 
 Welcome to my repository for the FIT Junior Data Science interview assignment. This project is divided into three main tasks, covering behavioral questions, machine learning, and computer vision. 
 
